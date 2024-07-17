@@ -1,11 +1,11 @@
 # Hello, I'm David Dorfman 👋
 
 ## 🚀 About Me
-I'm a recent Computer Science graduate from Bar-Ilan University, possess a profound enthusiasm for computer science, particularly software development. Strongly motivated and a rapid self-learner.
+I'm a recent computer science graduate from Bar-Ilan University, possess a profound enthusiasm for computer science, particularly software development. Strongly motivated and a rapid self-learner.
 
-- 💼 I’m currently pursuing a challenging role in back end software development
+- 💼 I’m currently pursuing a challenging role in software development
 - 🤔 I’m looking for help with finding an entry-level position
-- 👯 I’m looking to collaborate on fascinating projects' server-side
+- 👯 I’m looking to collaborate on fascinating projects
 - 💬 Ask me about any of my repositories
 
 ## 🛠 Skills
@@ -24,7 +24,7 @@ I'm a recent Computer Science graduate from Bar-Ilan University, possess a profo
 
 ## 🎯 Goals for 2024
 - Contribute to Open Source projects
-- Get a job as a Back End Software Developer
+- Get a job as a software developer
 - Participate in more meetups, webiners, hackatons, conferences, etc
 - Offer my services as a software developer
 - Establish an exciting project with enthusiastic programmers and entrepreneurs
