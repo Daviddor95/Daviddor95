@@ -22,6 +22,17 @@ I'm a recent computer science graduate from Bar-Ilan University, possess a profo
 - Databases: MongoDB, SQL
 - Cloud: Azure
 
+## 💻 Featured Projects 
+
+### [MyGroceries](https://github.com/Daviddor95/my-groceries)
+
+MyGroceries is a cross-platform mobile application for tracking groceries that helps you minimize food waste by tracking the expiration dates of food products. The development process was managed in Jira with the Agile paradigm and Scrum methodology. The mobile application was developed in JavaScript using React Native and Node.js, integrating Azure cloud services, MongoDB database, and various APIs and microservices, such as Azure Read, OpenAI ChatGPT, AWS Cognito, and Google Custom Search. You can check out the repository [here](https://github.com/Daviddor95/my-groceries).
+
+### [MultiSegKS](https://github.com/Daviddor95/Tabular-Data-Science-Project)
+
+MultiSegKS is a distribution matching project that helps you identify the distributions behind the dataset, when it doesn't fall under a single distribution. The project was developed in Python using data science and statistical methods, such as KDE and KS test. You can check out the repository [here](https://github.com/Daviddor95/Tabular-Data-Science-Project).
+
+
 ## 🎯 Goals for 2024
 - Contribute to Open Source projects
 - Get a job as a software developer
