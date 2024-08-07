@@ -27,6 +27,9 @@ I'm a recent computer science graduate from Bar-Ilan University, possess a profo
 ### 🛒 [MyGroceries](https://github.com/Daviddor95/my-groceries)
 MyGroceries is a cross-platform mobile application for tracking groceries that helps you minimize food waste by tracking the expiration dates of food products. The development process was managed in Jira with the Agile paradigm and Scrum methodology. The mobile application was developed in JavaScript using React Native and Node.js, integrating Azure cloud services, MongoDB database, and various APIs and microservices, such as Azure Read, OpenAI ChatGPT, AWS Cognito, and Google Custom Search. You can check out the repository [here](https://github.com/Daviddor95/my-groceries).
 
+### 🛩️ [Flight Inspection](https://github.com/Daviddor95/Flight-investigation)
+Flight Inspection is a desktop application for playing a flight record in the FlightGear simulator, while watching real-time flight data. The desktop application was developed in C# using MVVM architecture, WPF framework, multi-threading, and TCP/IP protocol. You can check out the repository [here](https://github.com/Daviddor95/Flight-investigation).
+
 ### 🛬 [Flight Anomaly Detection](https://github.com/Ellakh/Anomaly-Detection-WebApp)
 Flight Anomaly Detection is a web application for detecting anomalies in a record of abnormal flight based on a normal flight record. The web application was developed in React, NodeJS, and C++ using MVC architecture. You can check out the repository [here](https://github.com/Ellakh/Anomaly-Detection-WebApp).
 
