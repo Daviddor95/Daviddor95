@@ -1,15 +1,15 @@
 # Hello, I'm David Dorfman 👋
 
 ## 🚀 About Me
-I'm a recent computer science graduate from Bar-Ilan University, possess a profound enthusiasm for computer science, particularly software development. Strongly motivated and a rapid self-learner.
+I'm a computer science graduate from Bar-Ilan University, possess a profound enthusiasm for computer science, particularly software development. Strongly motivated and a rapid self-learner.
 
 - 💼 I’m currently pursuing a challenging role in software development
-- 🤔 I’m looking for help with finding an entry-level position
+- 🤔 I’m looking for help with finding an junior position
 - 👯 I’m looking to collaborate on fascinating projects
 - 💬 Ask me about any of my repositories
 
 ## 🛠 Skills
-- Languages: Java, Python, JavaScript, C#, C++, C
+- Languages: Python, Java, JavaScript, C#, C++
 - Technologies: Node.js, React, React Native
 - Operating Systems: Linux, Windows, Android
 - APIs: Azure Read, OpenAI ChatGPT, AWS Cognito, Google Custom Search
@@ -17,9 +17,9 @@ I'm a recent computer science graduate from Bar-Ilan University, possess a profo
 - Artificial Intelligence: Machine Learning, Deep Learning, PyTorch, TensorFlow, Keras, GAN
 - Object Oriented Programming: Design patterns, SOLID
 - Project management: Agile, Scrum, Jira, Git
-- Frameworks: .NET, WPF, JavaFX
+- Frameworks: Django, .NET, WPF, JavaFX
 - Architectures: MVVM, MVC
-- Databases: MongoDB, SQL
+- Databases: MongoDB, MySQL
 - Cloud: Azure
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -27,7 +27,6 @@ I'm a recent computer science graduate from Bar-Ilan University, possess a profo
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
@@ -68,7 +67,7 @@ Image Inpainting is a project for completing missing areas in a picture. The pro
 ### 📊 [MultiSegKS](https://github.com/Daviddor95/Tabular-Data-Science-Project)
 MultiSegKS is a distribution matching project that helps you identify the distributions behind a dataset, when the data doesn't fall under a single distribution. The project was developed in Python using data science and statistical methods, such as KDE and KS tests. You can check out the repository [here](https://github.com/Daviddor95/Tabular-Data-Science-Project).
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2025
 - Contribute to Open Source projects
 - Get a job as a software developer
 - Participate in more meetups, webiners, hackatons, conferences, etc
@@ -78,5 +77,3 @@ MultiSegKS is a distribution matching project that helps you identify the distri
 - Solve some interesting programming challenges and puzzles
 - Help other programmers on Stack Overflow
 - Learn more about new technologies
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daviddor95&" alt="daviddor95" />
